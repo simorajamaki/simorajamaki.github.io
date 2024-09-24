@@ -14,7 +14,7 @@ h1{
     color: aliceblue;
     text-align: center;
     font-size: 250%;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 p{
     color: aliceblue;
@@ -40,5 +40,6 @@ a{
     border: 1px, solid, rgba(240, 248, 255, 0.600);
     margin-left: 20%;
     margin-right: 20%;
+    margin-top: 3%;
     box-shadow: 5px 5px rgb(220, 220, 220);
 }
