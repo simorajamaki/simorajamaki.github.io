@@ -3,6 +3,7 @@ html{
     height: 100%;
     padding: 0%;
     margin: 0%;
+    overflow-x: hidden;
 }
 body{
     background-color: rgb(20, 20, 20);
@@ -19,24 +20,24 @@ p{
     color: aliceblue;
     text-align: left;
     margin: 3%;
+    font-size: 110%;
 }
 a{
     color: aliceblue;
     font-size: 150%;
-    margin: 2%;
-}
-img{
-    width: 3%;
+    margin-left: 2%;
 }
 .div-1{
     padding-top: 1%;
     padding-bottom: 1%;
-    width: 100%;
-    border: 1px, solid, rgba(240, 248, 255, 0.123);
+    width: 101%;
+    margin-left: -1%;
+    border: 1px, solid, rgba(240, 248, 255, 0.150);
+    box-shadow: 2px 2px 20px rgba(220, 220, 220, 0.089);
 }
 .div-2{
     width: auto;
-    border: 1px, solid, rgba(240, 248, 255, 0.445);
+    border: 1px, solid, rgba(240, 248, 255, 0.600);
     margin-left: 20%;
     margin-right: 20%;
     box-shadow: 5px 5px rgb(220, 220, 220);
